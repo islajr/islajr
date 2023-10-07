@@ -1,6 +1,11 @@
 <!-- ### Hi there 👋 -->
 
-### I'm Busy
+## Archer
+  - Learning to be a Full-stack web developer ⚡
+  - Linux Fanboy ❤️‍🔥
+  - Hobbyist Pythonista 
+  - I write code to make my life easier 
+  - Reach me on <a href="https://www.twitter.com/islajr">Twitter</a> 🫵🏽
 
 <!--
 **islajr/islajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
