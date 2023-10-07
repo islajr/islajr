@@ -3,7 +3,7 @@
 ## Archer
   - Inter-disciplinary Programmer 🤹🏽
   - Learning to be a Full-stack web developer ⚡
-  - Linux Fanboy ❤️‍🔥
+  - **Linux**, cos why not? ❤️‍🔥
   - Hobbyist Pythonista 
   - I write code to make my life easier 
   - Reach me on <a href="https://www.twitter.com/islarcherjr">Twitter</a> 🫵🏽
