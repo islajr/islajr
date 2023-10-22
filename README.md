@@ -5,8 +5,7 @@
 
 - Inter-disciplinary Programmer 🤹🏽
 - Learning to be a Full-stack web developer ⚡
-- **Linux**, cos why not? ❤️‍🔥
-- Hobbyist Pythonista 
+- **Linux**, cos why not? ❤️‍🔥<!-- - Hobbyist Pythonista -->
 - I write code to make my life easier
 
 
