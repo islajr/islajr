@@ -4,7 +4,7 @@
 ## Intro:
 
 - Inter-disciplinary Programmer 🤹🏽
-- Budding backend developer learning Java ⚡
+- Budding backend developer learning java ⚡
 - **Linux**, cos why not? ❤️‍🔥<!-- - Hobbyist Pythonista -->
 - I write code to make my life easier
 
