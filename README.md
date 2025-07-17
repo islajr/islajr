@@ -1,6 +1,15 @@
 <!-- ### Hi there 👋 -->
  <h1 align="center">Archer</h1>
 
+<!-- [![committers.top badge](https://user-badge.committers.top/nigeria/USERNAME.svg)](https://user-badge.committers.top/nigeria/USERNAME) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=islajr&label=Profile%20views&color=0e75b6&style=flat" alt="islajr" /> </p>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=islajr&theme=dark&hide_border=false)<br/>
+
+|![](https://github-readme-stats.vercel.app/api?username=islajr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=islajr&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/islajr) -->
+ 
+
 ## Intro:
 
 - Inter-disciplinary Programmer 🤹🏽
