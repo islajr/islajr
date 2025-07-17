@@ -1,8 +1,10 @@
 <!-- ### Hi there 👋 -->
  <h1 align="center">Archer</h1>
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=islajr&label=Profile%20views&color=0e75b6&style=flat" alt="islajr" /> </p>
+
 <!-- [![committers.top badge](https://user-badge.committers.top/nigeria/USERNAME.svg)](https://user-badge.committers.top/nigeria/USERNAME) 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=islajr&label=Profile%20views&color=0e75b6&style=flat" alt="islajr" /> </p>
+
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=islajr&theme=dark&hide_border=false)<br/>
 
