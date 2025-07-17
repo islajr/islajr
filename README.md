@@ -7,7 +7,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=islajr&theme=dark&hide_border=false)<br/>
 
 |![](https://github-readme-stats.vercel.app/api?username=islajr&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=islajr&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/islajr) -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=islajr&langs_count=10&theme=tokyonight&layout=compact)](https://github.com/islajr)
+
+<a href="https://volt.fm/egoist" target="_blank"><img src="https://spotify-badge-egoist.vercel.app/api/now-playing" width="540" height="52" alt="now playing"></a>
+
+<https://github.com/Gerhut/Gerhut>
+<pls deploy your own service using the repo above>
+
+![coding stats](https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/egoist/interval:30_days&label=coding%20stats%20last%2030d)
+-->
  
 
 ## Intro:
