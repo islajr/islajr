@@ -1,10 +1,37 @@
 <!-- ### Hi there 👋 -->
  <h1 align="center">Archer</h1>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=islajr&label=Profile%20views&color=0e75b6&style=flat" alt="islajr" /> </p>
-
+<div>
+ <table>
+  <tr>
+   <td>
+      <!-- profile visits -->
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=islajr&label=Profile%20views&color=0e75b6&style=flat" alt="islajr's profile visits" /> </p>
+   </td>
+   <td>
+<!--       Top Committers ranking -->
+     
+    
+   [![committers.top badge](https://user-badge.committers.top/nigeria/USERNAME.svg)](https://user-badge.committers.top/nigeria/USERNAME)
+   </td>
+  </tr>
+ </table>
+</div>
+ 
 <!-- [![committers.top badge](https://user-badge.committers.top/nigeria/USERNAME.svg)](https://user-badge.committers.top/nigeria/USERNAME) 
 
+<div id="image-table" align="center">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+                <img src=".github/img/elliot.gif" alt="Elliot Anderson (Mr Robot) looking at the profile visits counter and smiling"/>
+      	    </td>
+            <td style="padding:10px">
+                <img src="https://komarev.com/ghpvc/?username=aleixmt&label=Profile%20views&color=0e75b6&style=flat" alt="Profile visits counter"/>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=islajr&theme=dark&hide_border=false)<br/>
 
