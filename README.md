@@ -12,7 +12,7 @@
 <!--       Top Committers ranking -->
      
     
-   [![committers.top badge](https://user-badge.committers.top/nigeria/USERNAME.svg)](https://user-badge.committers.top/nigeria/USERNAME)
+   [![committers.top badge](https://user-badge.committers.top/nigeria/islajr.svg)](https://user-badge.committers.top/nigeria/islajr)
    </td>
   </tr>
  </table>
