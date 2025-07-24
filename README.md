@@ -1,22 +1,7 @@
 <!-- ### Hi there 👋 -->
  <h1 align="center">Archer</h1>
-
-<div>
- <table>
-  <tr>
-   <td>
       <!-- profile visits -->
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=islajr&label=Profile%20views&color=0e75b6&style=flat" alt="islajr's profile visits" /> </p>
-   </td>
-   <td>
-<!--       Top Committers ranking -->
-     
-    
-   [![committers.top badge](https://user-badge.committers.top/nigeria/islajr.svg)](https://user-badge.committers.top/nigeria/islajr)
-   </td>
-  </tr>
- </table>
-</div>
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=islajr&label=Profile%20views&color=blueviolet&style=plastic" alt="islajr's profile visits" /> </p>
  
 <!-- [![committers.top badge](https://user-badge.committers.top/nigeria/USERNAME.svg)](https://user-badge.committers.top/nigeria/USERNAME) 
 
