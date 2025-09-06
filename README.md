@@ -8,7 +8,7 @@
 
 <!-- technologies: -->
 <p align="center">
-    Java · Go · Python
+    Java | Go | Python
 </p>
 
 <!-- contact information: -->
