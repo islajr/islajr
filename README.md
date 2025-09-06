@@ -4,11 +4,11 @@
 <div align='center'>
     <p align='center'><img src="https://komarev.com/ghpvc/?username=islajr&label=Profile%20views&color=blueviolet&style=plastic" alt="islajr's profile visits"/></p>
     <p>Backend Developer | Linux | Systems</p>
-    <br/>
 </div>
 
+<hr/>
 
-<h1 align='center'>Technologies:</h1>
+<!-- technologies: -->
 <div align='center'>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -16,10 +16,9 @@
    <!--  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> -->
 </div>
 
-<br/>
+<hr/>
 
-<h1 align='center'>Contact:</h1>
-
+<!-- contact information: -->
 <div align='center'>
     <a href="https://twitter.com/islajrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="send me a message on twitter." height="30" width="40" /></a>
 </div>
