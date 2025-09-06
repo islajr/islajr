@@ -6,7 +6,7 @@
     <p>Backend Developer | Linux | Systems</p>
 </div>
 
-<hr/>
+<hr style="height: 1px"/>
 
 <!-- technologies: -->
 <div align='center'>
@@ -16,7 +16,7 @@
    <!--  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a> -->
 </div>
 
-<hr/>
+<hr style="height: 1px"/>
 
 <!-- contact information: -->
 <div align='center'>
