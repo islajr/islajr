@@ -8,11 +8,25 @@
 
 <!-- technologies: -->
 <p align="center">
-    Java | C++ | Python
+<!--     Java | C++ | Python -->
+ 
+ <div align='center'>
+  
+   [![My Skills](https://skillicons.dev/icons?i=java,cpp,python&perline=11)](#)
+   
+ </div>
+
 </p>
 
 <!-- contact information: -->
 <p align='center'>
-    <a href="https://x.com/islajrn">X</a> ·
-    <a href="mailto:akinmokun0x@gmail.com">Mail</a>
+<!--     <a href="https://x.com/islajrn">X</a> ·
+    <a href="mailto:akinmokun0x@gmail.com">Mail</a> -->
+
+<div align='center'>
+
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/islajrn)
+ [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinmokun0x@gmail.com)
+
+</div>
 </p>
